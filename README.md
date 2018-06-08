@@ -1,7 +1,7 @@
 # GTI525 : Devoir de familiarisation à REST et node.js
 
 ----
- **Votre nom:** 
+ **Votre nom:** Fabeleu Kouemo Carole
  
  **Correction:**
  
